@@ -1,4 +1,14 @@
-### Hi there 👋
+### nice 2 meet you
+
+
+
+# my current interests
+- looking towards a more backend oriented careerpath
+- working on a custom split keyboard that will be opensource
+
+# what i'm currently learning
+- rust for rocket
+- rust for wasm
 
 <!--
 **maurogarciac/maurogarciac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
