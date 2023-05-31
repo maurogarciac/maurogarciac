@@ -1,11 +1,11 @@
 ### nice 2 meet you
 
 # who am i
-Im a Software Development Engineer in Test for Adaptive Biotechnologies
-I'm an Electronics engineering dropout (switched to Computer Science lol)
-I'm a tinkerer, like building circuits and automating things both in software and hardware
-I'm also really curious in general, I like learning a lot, I speak 4 languages (Spanish, English, Italian, German) and I'm in the process of learning Russian as well :)
-idk...
+Im a Software Development Engineer in Test for Adaptive Biotechnologies  
+I'm an Electronics engineering dropout (switched to Computer Science lol)  
+I'm a tinkerer, like building circuits and automating things both in software and hardware  
+I'm also really curious in general, I like learning a lot, I speak 4 languages (Spanish, English, Italian, German) and I'm in the process of learning Russian as well :)  
+idk...  
 
 ## my current interests
 - working on a libre command line application for local repository management (repo-hub)
