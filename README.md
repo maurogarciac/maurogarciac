@@ -1,4 +1,4 @@
-### nice 2 meet you
+### nice 2 meet u
 
 # who am i
 Im a Software Development Engineer in Test for Adaptive Biotechnologies  
@@ -9,8 +9,8 @@ idk...
 
 ## my current interests
 - working on a libre command line application for local repository management (repo-hub)
-- looking into backend as my careerpath
 - working on a custom split keyboard that will be opensource
+- looking into backend development as my careerpath
 
 ## what i'm currently learning
 - rust for rocket
