@@ -11,6 +11,7 @@ idk...
 ## my current interests
 - working on a libre command line application for local repository management (repo-hub)
 - working on a custom split keyboard that will be opensource
+- working on automating most things I do on my arch linux install
 - looking into backend development as my careerpath
 
 ## what i'm currently learning
