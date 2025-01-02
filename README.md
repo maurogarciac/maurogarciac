@@ -1,9 +1,8 @@
 # Hi, I'm mauro! 
 ### A.K.A. daffy
-### A.K.A. the love of your life (only applies if you're my wife reading this)
+#### A.K.A. the love of your life (only applies if my wife is reading this)
 
-I've built some cool stuff, 
-mostly in Golang, Python and Rust.
+I have some cool proyects here, mostly built in Rust, Golang and Python.
 
-Of course I worked with other languages, like Java and javascript or typescript, but they're not cool and hip.
+Of course I worked with other languages, like Java, Javascript / Typescript, and C, but they're not cool and hip.
 
